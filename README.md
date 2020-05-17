@@ -1,4 +1,3 @@
-# auto-python
-automatetheboringstuff material
+# AutomateTheBoringStuff Scripts
 
-Some scripts I made from automatetheboringstuff book with Python
+Some scripts I made from the exercises from the book with Python
